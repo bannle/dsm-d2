@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "363607756514",
+    "project_id": "desafiopractico2-84b1e",
+    "storage_bucket": "desafiopractico2-84b1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363607756514:android:681f0444370941b34458bb",
+        "android_client_info": {
+          "package_name": "com.example.d2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363607756514-5j8se753h65ohqi22q05bn2a6vg13p7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCva9x2tUIoQHYhNgqJYhKTnQ1noIPtpqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363607756514-5j8se753h65ohqi22q05bn2a6vg13p7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

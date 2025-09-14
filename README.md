@@ -1,6 +1,12 @@
 # Student Score
 
-![Icono de la app](./icon.png)  
+![Icono de la app](./icon.png)
+
+
+## Desarrolado por:
+María José Rivera Flores - RF231136
+
+---
 
 ## Descripción  
 Aplicación móvil para un colegio donde los maestros pueden registrar estudiantes y sus notas.  
@@ -49,9 +55,4 @@ El acceso a la aplicación se realiza por medio de un **Login**, y si el usuario
 
 ## ecnologías utilizadas  
 - **Kotlin** – Android Studio  
-- **Firebase** – Autenticación y base de datos   
-
----
-
-## Desarrolado por:
-María José Rivera Flores - RF231136
+- **Firebase** – Autenticación y base de datos

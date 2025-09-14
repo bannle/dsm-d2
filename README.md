@@ -49,7 +49,7 @@ El acceso a la aplicación se realiza por medio de un **Login**, y si el usuario
 ---
 
 ## Video de demostración de funcionalidad  
-[Ver video]()  
+[Ver video](https://drive.google.com/file/d/15aTZizIaZgFl10t0x3Afzj88D30IYh08/view?usp=drive_link)  
 
 ---
 
